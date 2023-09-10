@@ -1,3 +1,8 @@
+## Useful links:
+
+http://www.oracleflash.com/19/Install-Oracle-11g-Release-2-on-RHEL-5.html
+
+
 ## commands used for stop and start the oracle listener and db service before and after the server patching or restart:
 
 ```bash
